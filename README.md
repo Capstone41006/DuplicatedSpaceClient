@@ -22,6 +22,9 @@ storageRef = storage.GetReferenceFromUrl("gs://fir-***.appspot.com");
 GaussianSplattingVRViewer 폴더에 adminsdk 파일을 넣음
 
 
+## 참조 Github Repo
+[GaussianSplattingVRViewer](https://github.com/clarte53/GaussianSplattingVRViewerUnity)
+
 
 ## Example Video
 https://youtu.be/9ZbRM-3eRyU
