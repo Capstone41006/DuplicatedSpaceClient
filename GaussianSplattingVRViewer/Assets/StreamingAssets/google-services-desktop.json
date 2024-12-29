@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "797753433687",
+    "firebase_url": "https://fir-study-e1c26-default-rtdb.firebaseio.com",
+    "project_id": "fir-study-e1c26",
+    "storage_bucket": "fir-study-e1c26.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:797753433687:android:5fd3dd0ac5579462d10d12",
+        "android_client_info": {
+          "package_name": "com.capstone.study"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB80Gr885hrbmBQt7o9sFjOUuENPDuQeDc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
